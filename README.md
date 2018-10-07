@@ -1,5 +1,5 @@
-# Readme
-### 说明：该“模板”以[UPCLaTeX/UPCThesis](https://github.com/UPCLaTeX/UPCThesis)为基本框架(在此对原作者表示感谢！！！！)
+# README
+### 该“模板”以[UPCLaTeX/UPCThesis](https://github.com/UPCLaTeX/UPCThesis)为基本框架(在此对原作者表示感谢！！！！)
 ### 并结合中国石油大学(华东)2018年本科毕业设计word模板中相关要求进行改进
 主要改进的方面有：
 - 封面：
@@ -18,4 +18,5 @@
   * 修复了章节文字及对应页码及引导点加粗的问题
   * 修复了引导点疏密程度的问题
   * 对章节间距及缩进问题进行了改进。
+  
   ……未完待续
